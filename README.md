@@ -1,3 +1,3 @@
 # college-notice-app
 
-Latest version : NOTICEFP v17.10
+Latest version : NOTICEFP v19.10 WITH DATABASE
