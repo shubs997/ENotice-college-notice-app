@@ -2,8 +2,6 @@
 Java EE project made using JSP and Servlets with Model View Controller (MVC) architecture.
 
 
-Latest version : NOTICEFP v19.10 WITH DATABASE
-
 IDE : Apache Netbeans 8.2 or higher.
 
 Server: Apache Tomcat
