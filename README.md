@@ -13,9 +13,9 @@ Database: MySQL
 Libraries: JDBC Connector and JSTL
 
 ## Technology Stack
-*HTML5
-*CSS3
-*ES6
-*BOOTSTRAP
-*JAVA EE
-*MYSQL
+* HTML5
+* CSS3
+* ES6
+* BOOTSTRAP
+* JAVA EE
+* MYSQL
